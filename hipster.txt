@@ -17,3 +17,6 @@ drwxrwxr-x. 3 opc opc    53 Jan 11 07:45 js
 -rw-rw-r--. 1 opc opc   133 Jan 11 07:45 README.md
 -rw-rw-r--. 1 opc opc    32 Jan 11 07:45 robots.txt
 -rw-rw-r--. 1 opc opc   429 Jan 11 07:45 simple.html
+
+
+cat: /etc/oratab: No such file or directory
