@@ -1,0 +1,19 @@
+
+total 96
+drwxrwxr-x. 6 opc opc  4096 Jan 11 07:50 .
+drwxrwxr-x. 7 opc opc   101 Jan 11 07:45 ..
+-rw-rw-r--. 1 opc opc  4459 Jan 11 07:45 404.html
+-rw-rw-r--. 1 opc opc  1226 Jan 11 07:45 apple-touch-icon-precomposed.png
+-rw-rw-r--. 1 opc opc   603 Jan 11 07:45 crossdomain.xml
+drwxrwxr-x. 2 opc opc  4096 Jan 11 07:45 css
+-rw-rw-r--. 1 opc opc   766 Jan 11 07:45 favicon.ico
+drwxrwxr-x. 2 opc opc  4096 Jan 11 07:45 fonts
+drwxrwxr-x. 8 opc opc  4096 Jan 11 07:49 .git
+-rw-------. 1 opc opc  4096 Jan 11 07:50 .hipster.txt.swp
+-rw-rw-r--. 1 opc opc 29947 Jan 11 07:45 .htaccess
+-rw-rw-r--. 1 opc opc   191 Jan 11 07:45 humans.txt
+-rw-rw-r--. 1 opc opc  5154 Jan 11 07:45 index.html
+drwxrwxr-x. 3 opc opc    53 Jan 11 07:45 js
+-rw-rw-r--. 1 opc opc   133 Jan 11 07:45 README.md
+-rw-rw-r--. 1 opc opc    32 Jan 11 07:45 robots.txt
+-rw-rw-r--. 1 opc opc   429 Jan 11 07:45 simple.html
